@@ -1,0 +1,98 @@
+[17-Sep-2023 06:09:40 UTC] PHP Warning:  include(../include/config.php): failed to open stream: No such file or directory in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:09:40 UTC] PHP Warning:  include(../include/config.php): failed to open stream: No such file or directory in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:09:40 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:09:40 UTC] PHP Notice:  Undefined variable: con in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 73
+[17-Sep-2023 06:09:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 10
+[17-Sep-2023 06:09:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 12
+[17-Sep-2023 06:10:58 UTC] PHP Warning:  include(../include/config.php): failed to open stream: No such file or directory in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:10:58 UTC] PHP Warning:  include(../include/config.php): failed to open stream: No such file or directory in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:10:58 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:10:58 UTC] PHP Notice:  Undefined variable: con in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 73
+[17-Sep-2023 06:10:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 10
+[17-Sep-2023 06:10:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 12
+[17-Sep-2023 06:12:12 UTC] PHP Warning:  include(../include/config.php): failed to open stream: No such file or directory in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:12:12 UTC] PHP Warning:  include(../include/config.php): failed to open stream: No such file or directory in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:12:12 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:12:12 UTC] PHP Notice:  Undefined variable: con in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 73
+[17-Sep-2023 06:12:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 10
+[17-Sep-2023 06:12:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 12
+[17-Sep-2023 06:13:50 UTC] PHP Warning:  include(../include/config.php): failed to open stream: No such file or directory in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:13:50 UTC] PHP Warning:  include(../include/config.php): failed to open stream: No such file or directory in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:13:50 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:13:50 UTC] PHP Notice:  Undefined variable: con in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 73
+[17-Sep-2023 06:13:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 10
+[17-Sep-2023 06:13:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 12
+[17-Sep-2023 06:14:15 UTC] PHP Warning:  include(../include/config.php): failed to open stream: No such file or directory in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:14:15 UTC] PHP Warning:  include(../include/config.php): failed to open stream: No such file or directory in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:14:15 UTC] PHP Warning:  include(): Failed opening '../include/config.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 68
+[17-Sep-2023 06:14:15 UTC] PHP Notice:  Undefined variable: con in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 73
+[17-Sep-2023 06:14:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 10
+[17-Sep-2023 06:14:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 12
+[17-Sep-2023 11:45:09 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[17-Sep-2023 11:45:23 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[17-Sep-2023 11:45:32 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[17-Sep-2023 11:52:58 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[17-Sep-2023 11:55:25 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[17-Sep-2023 11:55:41 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[17-Sep-2023 11:55:57 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 10:35:08 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 10:35:27 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 11:24:38 Asia/Kolkata] PHP Notice:  Undefined variable: licenseInfo in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 32
+[14-Oct-2023 11:24:38 Asia/Kolkata] PHP Notice:  Undefined variable: licenseInfo in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 33
+[14-Oct-2023 11:28:25 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:28:46 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:29:18 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:30:53 Asia/Kolkata] PHP Notice:  Undefined variable: stockName in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 83
+[14-Oct-2023 11:30:53 Asia/Kolkata] PHP Notice:  Undefined variable: price in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 84
+[14-Oct-2023 11:30:53 Asia/Kolkata] PHP Notice:  Undefined variable: change in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 85
+[14-Oct-2023 11:31:43 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 84
+[14-Oct-2023 11:33:56 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:34:02 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:37:07 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 11:37:13 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 11:37:18 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 11:37:23 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 11:38:01 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:38:08 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:38:21 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:38:35 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:40:43 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 11:40:58 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 11:41:42 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:44:24 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:44:55 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 11:45:16 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/stock.php on line 46
+[14-Oct-2023 11:52:34 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:55:48 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:56:09 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 11:57:13 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:10:54 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:11:53 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:13:17 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:15:12 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:16:32 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:16:41 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:16:50 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:18:41 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:18:48 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:19:10 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:19:14 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:19:44 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 12:21:12 Asia/Kolkata] PHP Notice:  Undefined index: license_key in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 41
+[14-Oct-2023 12:21:12 Asia/Kolkata] PHP Notice:  Undefined index: domain in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 42
+[14-Oct-2023 12:21:12 Asia/Kolkata] PHP Notice:  Undefined index: stock_id in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 43
+[14-Oct-2023 15:20:51 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 15:21:28 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 15:22:18 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 15:22:33 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 16:17:03 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 16:37:46 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 16:43:16 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 16:43:25 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 16:43:39 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[14-Oct-2023 16:43:53 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[15-Oct-2023 08:54:33 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[15-Oct-2023 08:54:43 Asia/Kolkata] PHP Notice:  Trying to get property 'nodeValue' of non-object in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 22
+[19-Oct-2023 19:34:52 Asia/Kolkata] PHP Notice:  Undefined index: license_key in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 41
+[19-Oct-2023 19:34:52 Asia/Kolkata] PHP Notice:  Undefined index: domain in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 42
+[19-Oct-2023 19:34:52 Asia/Kolkata] PHP Notice:  Undefined index: stock_id in /home/seamarin/public_html/4admin.4born.info/Stock-Market/api/test.php on line 43

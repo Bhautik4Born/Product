@@ -1,0 +1,93 @@
+[29-Aug-2023 09:02:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 213
+[29-Aug-2023 09:05:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:06:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:06:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:06:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:06:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:10:14 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4born Market/Admin market/E-OTP/include/header.php on line 22
+[29-Aug-2023 09:10:51 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4born Market/Admin market/E-OTP/include/header.php on line 22
+[29-Aug-2023 09:19:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:19:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:20:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:20:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:20:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:21:26 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 09:21:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:21:33 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 09:21:35 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:21:49 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 09:24:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:24:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 09:24:57 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 09:55:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:36:24 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4born Market/Admin market/include/header.php on line 94
+[29-Aug-2023 11:37:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:37:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:37:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:38:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:38:11 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 11:38:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:38:15 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 11:38:19 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 11:38:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:38:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:38:51 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 11:38:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:39:08 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 11:39:28 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 11:39:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:42:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:42:16 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 11:47:48 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 11:47:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:50:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:50:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:50:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 11:50:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:50:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 11:50:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 16:52:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 16:52:28 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[29-Aug-2023 18:40:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[29-Aug-2023 18:40:27 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[06-Sep-2023 10:20:42 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[16-Sep-2023 09:28:10 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[16-Sep-2023 09:28:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/payment_detail.php on line 115
+[16-Sep-2023 09:28:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[16-Sep-2023 09:28:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4born Market/Admin market/E-OTP/user.php on line 106
+[16-Sep-2023 19:50:18 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[16-Sep-2023 19:50:18 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[16-Sep-2023 19:50:18 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[16-Sep-2023 19:50:18 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[16-Sep-2023 19:52:32 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
+[16-Sep-2023 19:52:52 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
+[16-Sep-2023 20:34:59 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
+[16-Sep-2023 22:34:32 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
+[16-Sep-2023 23:21:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/user.php on line 106
+[16-Sep-2023 23:25:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/user.php on line 106
+[16-Sep-2023 23:25:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/user.php on line 106
+[17-Sep-2023 07:49:53 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[17-Sep-2023 07:49:53 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[17-Sep-2023 07:49:53 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[17-Sep-2023 07:49:54 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[14-Oct-2023 10:29:08 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[14-Oct-2023 10:29:08 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[14-Oct-2023 10:29:08 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[14-Oct-2023 10:29:08 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[14-Oct-2023 10:52:03 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[14-Oct-2023 10:52:03 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[14-Oct-2023 10:52:03 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[14-Oct-2023 10:52:03 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/seamarin/public_html/4admin.4born.info/include/header.php on line 94
+[15-Oct-2023 00:53:24 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
+[19-Oct-2023 19:29:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/user.php on line 106
+[19-Oct-2023 19:29:35 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
+[19-Oct-2023 19:29:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/user.php on line 106
+[19-Oct-2023 19:35:42 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
+[02-Nov-2023 07:28:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/user.php on line 106
+[02-Nov-2023 07:29:49 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
+[03-Nov-2023 17:44:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/user.php on line 106
+[03-Nov-2023 17:45:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/user.php on line 106
+[03-Nov-2023 17:45:23 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
+[03-Nov-2023 17:45:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/user.php on line 106
+[03-Nov-2023 17:46:45 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
+[03-Nov-2023 17:48:10 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/seamarin/public_html/4admin.4born.info/E-OTP/payment_detail.php on line 115
