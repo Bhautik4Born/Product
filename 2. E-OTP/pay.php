@@ -1,1 +1,0 @@
-<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_M6ZvK3Xbfr3b3d" async> </script> </form>
